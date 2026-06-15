@@ -17,6 +17,7 @@
 1. [웹 애플리케이션 이해](https://www.notion.so/37c8e70ba5ff814c8c5eeee08d80a249?source=copy_link)
 2. [서블릿](https://www.notion.so/2-37c8e70ba5ff8113b4b9fa509f8646eb?source=copy_link)
 3. [서블릿, JSP, MVC 패턴](https://www.notion.so/3-JSP-MVC-37d8e70ba5ff8188aff2d3435d37adba?source=copy_link)
+4. [MVC 프레임워크 만들기](https://www.notion.so/4-MVC-3808e70ba5ff8137aeaff68a2a7137d2?source=copy_link)
 
 ## 📄 참고
 김영한의 스프링 강의와 수업자료를 참고했습니다.
