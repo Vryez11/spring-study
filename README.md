@@ -19,6 +19,7 @@
 3. [서블릿, JSP, MVC 패턴](https://www.notion.so/3-JSP-MVC-37d8e70ba5ff8188aff2d3435d37adba?source=copy_link)
 4. [MVC 프레임워크 만들기](https://www.notion.so/4-MVC-3808e70ba5ff8137aeaff68a2a7137d2?source=copy_link)
 5. [스프링 MVC 구조 이해](https://www.notion.so/5-MVC-3808e70ba5ff81b0ac18d3f2ba0cbdd8?source=copy_link)
+6. [스프링 MVC 기본 기능](https://www.notion.so/6-MVC-3828e70ba5ff811b9822c6d997efc1be?source=copy_link)
 
 ## 📄 참고
 김영한의 스프링 강의와 수업자료를 참고했습니다.
