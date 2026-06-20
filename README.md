@@ -22,6 +22,7 @@
 6. [스프링 MVC 기본 기능](https://www.notion.so/6-MVC-3828e70ba5ff811b9822c6d997efc1be?source=copy_link)
 7. [웹 페이지 만들기](https://www.notion.so/7-3828e70ba5ff81388c8ed27e96263733?source=copy_link)
 8. [타임리프 - 기본 기능](https://www.notion.so/8-3858e70ba5ff816f961cf95e03de7e68?source=copy_link)
+9. [타임리프 - 스프링 통합과 폼](https://www.notion.so/9-3858e70ba5ff818ba2aad2fb115a9d4f?source=copy_link)
 
 ## 📄 참고
 김영한의 스프링 강의와 수업자료를 참고했습니다.
