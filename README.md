@@ -25,6 +25,7 @@
 9. [타임리프 - 스프링 통합과 폼](https://www.notion.so/9-3858e70ba5ff818ba2aad2fb115a9d4f?source=copy_link)
 10. [메시지, 국제화](https://www.notion.so/10-3858e70ba5ff819c87bfee052459b762?source=copy_link)
 11. [검증1 - Validation](https://www.notion.so/11-1-Validation-3878e70ba5ff81739182f4af961e2ed3?source=copy_link)
+12. [검증2 - Bean Validation](https://www.notion.so/12-2-Bean-Validation-3888e70ba5ff8100b8b8ded89419ea41?source=copy_link)
 
 ## 📄 참고
 김영한의 스프링 강의와 수업자료를 참고했습니다.
