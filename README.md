@@ -27,7 +27,8 @@
 11. [검증1 - Validation](https://www.notion.so/11-1-Validation-3878e70ba5ff81739182f4af961e2ed3?source=copy_link)
 12. [검증2 - Bean Validation](https://www.notion.so/12-2-Bean-Validation-3888e70ba5ff8100b8b8ded89419ea41?source=copy_link)
 13. [로그인 처리1 - 쿠키, 세션](https://app.notion.com/p/13-1-3928e70ba5ff815e923ac3aa2dc22b7d?source=copy_link)
-14. [로그인 처리2 = 필터, 인터셉터](https://app.notion.com/p/14-2-3938e70ba5ff81bba197c9ebbbb960c1?source=copy_link)
+14. [로그인 처리2 - 필터, 인터셉터](https://app.notion.com/p/14-2-3938e70ba5ff81bba197c9ebbbb960c1?source=copy_link)
+15. [예외 처리와 오류 페이지](https://app.notion.com/p/15-3958e70ba5ff81b08a52d19a4fa7896d?source=copy_link#f7dd0c0a2c624678a5412cb30ea161aa)
 
 ## 📄 참고
 김영한의 스프링 강의와 수업자료를 참고했습니다.
