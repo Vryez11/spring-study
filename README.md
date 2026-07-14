@@ -29,6 +29,9 @@
 13. [로그인 처리1 - 쿠키, 세션](https://app.notion.com/p/13-1-3928e70ba5ff815e923ac3aa2dc22b7d?source=copy_link)
 14. [로그인 처리2 - 필터, 인터셉터](https://app.notion.com/p/14-2-3938e70ba5ff81bba197c9ebbbb960c1?source=copy_link)
 15. [예외 처리와 오류 페이지](https://app.notion.com/p/15-3958e70ba5ff81b08a52d19a4fa7896d?source=copy_link#f7dd0c0a2c624678a5412cb30ea161aa)
+16. [API 예외 처리](https://app.notion.com/p/16-API-3958e70ba5ff8145b9ace0385f949921?source=copy_link)
+17. [스프링 타입 컨버터](https://app.notion.com/p/17-3978e70ba5ff813abef1c32dfb9a8102?source=copy_link)
+18. [파일 업로드](https://app.notion.com/p/18-3988e70ba5ff81d8babaec01896ea282?source=copy_link)
 
 ### 📗 스프링 DB
 1. [JDBC 이해](https://app.notion.com/p/1-JDBC-39a8e70ba5ff81b2b6dbea1942b73964?source=copy_link)
