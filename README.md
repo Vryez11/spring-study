@@ -30,5 +30,9 @@
 14. [로그인 처리2 - 필터, 인터셉터](https://app.notion.com/p/14-2-3938e70ba5ff81bba197c9ebbbb960c1?source=copy_link)
 15. [예외 처리와 오류 페이지](https://app.notion.com/p/15-3958e70ba5ff81b08a52d19a4fa7896d?source=copy_link#f7dd0c0a2c624678a5412cb30ea161aa)
 
+### 📗 스프링 DB
+1. [JDBC 이해](https://app.notion.com/p/1-JDBC-39a8e70ba5ff81b2b6dbea1942b73964?source=copy_link)
+2. [커넥션 풀과 데이터 소스 이해](https://app.notion.com/p/2-39d8e70ba5ff81e1b883f45572817d91?source=copy_link)
+
 ## 📄 참고
 김영한의 스프링 강의와 수업자료를 참고했습니다.
