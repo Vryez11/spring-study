@@ -36,6 +36,10 @@
 ### 📗 스프링 DB
 1. [JDBC 이해](https://app.notion.com/p/1-JDBC-39a8e70ba5ff81b2b6dbea1942b73964?source=copy_link)
 2. [커넥션 풀과 데이터 소스 이해](https://app.notion.com/p/2-39d8e70ba5ff81e1b883f45572817d91?source=copy_link)
+3. [트랜잭션 이해](https://app.notion.com/p/3-39d8e70ba5ff81969d61daff726ff918?source=copy_link)
+4. [스프링과 문제 해결](https://app.notion.com/p/4-3a08e70ba5ff81c48456dacb6e2e2aa8?source=copy_link)
+5. [자바 예외 처리](https://app.notion.com/p/5-3a18e70ba5ff81f992e9d2d810d2f862?source=copy_link)
+6. [스프링과 문제 해결 - 예외 처리, 반복](https://app.notion.com/p/6-3a18e70ba5ff8152aa1ddc063912cd03?source=copy_link)
 
 ## 📄 참고
 김영한의 스프링 강의와 수업자료를 참고했습니다.
