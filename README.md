@@ -40,6 +40,8 @@
 4. [스프링과 문제 해결](https://app.notion.com/p/4-3a08e70ba5ff81c48456dacb6e2e2aa8?source=copy_link)
 5. [자바 예외 처리](https://app.notion.com/p/5-3a18e70ba5ff81f992e9d2d810d2f862?source=copy_link)
 6. [스프링과 문제 해결 - 예외 처리, 반복](https://app.notion.com/p/6-3a18e70ba5ff8152aa1ddc063912cd03?source=copy_link)
+7. [데이터 접근 기술 - 스프링 JdbcTemplate](https://app.notion.com/p/7-JdbcTemplate-3a38e70ba5ff81f2b468d97d91cd45d5?source=copy_link)
+8. [데이터 접근 기술 - 테스트](https://app.notion.com/p/8-3b18e70ba5ff8136a95efaf98f709f4f?source=copy_link)
 
 ## 📄 참고
 김영한의 스프링 강의와 수업자료를 참고했습니다.
