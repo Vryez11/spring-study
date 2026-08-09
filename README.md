@@ -42,6 +42,14 @@
 6. [스프링과 문제 해결 - 예외 처리, 반복](https://app.notion.com/p/6-3a18e70ba5ff8152aa1ddc063912cd03?source=copy_link)
 7. [데이터 접근 기술 - 스프링 JdbcTemplate](https://app.notion.com/p/7-JdbcTemplate-3a38e70ba5ff81f2b468d97d91cd45d5?source=copy_link)
 8. [데이터 접근 기술 - 테스트](https://app.notion.com/p/8-3b18e70ba5ff8136a95efaf98f709f4f?source=copy_link)
+9. [데이터 접근 기술 - MyBatis](https://app.notion.com/p/9-MyBatis-3b28e70ba5ff819aa1f2fb8216e48421?source=copy_link)
+10. [데이터 접근 기술 - JPA](https://app.notion.com/p/10-JPA-3b48e70ba5ff817f9bebc1bd617aaaaa?source=copy_link)
+11. [데이터 접근 기술 - 스프링 데이터 JPA](https://app.notion.com/p/11-JPA-3b68e70ba5ff8185bfe6e2487aa3d593?source=copy_link)
+12. [데이터 접근 기술 - Querydsl](https://app.notion.com/p/12-Querydsl-3b78e70ba5ff816cb6dfc213096d01e0?source=copy_link)
+13. [데이터 접근 기술 - 활용 방안](https://app.notion.com/p/13-3b78e70ba5ff81b1984ae18b8922f13f?source=copy_link)
+14. [스프링 트랜잭션 이해](https://app.notion.com/p/14-3b78e70ba5ff81cc8103e7cb03a136ac?source=copy_link)
+15. [스프링 트랜잭션 전파1 - 기본](https://app.notion.com/p/15-1-3b78e70ba5ff8142afdec7e41a5832ad?source=copy_link)
+16. [스프링 트랜잭션 전파2 - 활용](https://app.notion.com/p/16-2-3b78e70ba5ff8171bf42d88c5f1ab43e?source=copy_link)
 
 ## 📄 참고
 김영한의 스프링 강의와 수업자료를 참고했습니다.
